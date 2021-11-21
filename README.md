@@ -1,7 +1,11 @@
 ## RAMPVIS PhilTransA Submission Supplement
 ### _Collection of Observable Notebooks for RAMP VIS Idioms_
 
-This is a repository for the collection of immutable, archived versions of the Observable Notebooks to support the RAMPVIS PhilTransA submission : "_Visualization for Epidemiological Modelling: Challenges, Solutions, Reflections & Recommendations_" by a collective of authors from the SCRC and RAMP VIS Consortium:
+This is a repository for the collection of immutable, archived versions of the Observable Notebooks to support the RAMPVIS PhilTransA submission :
+
+"_Visualization for Epidemiological Modelling: Challenges, Solutions, Reflections & Recommendations_" 
+
+by a collective of authors from the SCRC and RAMP VIS Consortium:
 
 - Dykes, Jason; City University of London, Computer Science
 - Abdul-Rahman, Alfie; King's College London
