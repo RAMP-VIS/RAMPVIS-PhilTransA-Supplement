@@ -3,7 +3,7 @@
 
 This is a repository for the collection of immutable, archived versions of the Observable Notebooks to support the RAMPVIS PhilTransA submission :
 
-"**_Visualization for Epidemiological Modelling: Challenges, Solutions, Reflections & Recommendations_**" 
+"**_Visualization for Epidemiological Modelling: Challenges, Solutions, Reflections & Recommendations_**"
 
 by a collective of authors from the SCRC and RAMP VIS Consortium:
 
@@ -41,8 +41,7 @@ by a collective of authors from the SCRC and RAMP VIS Consortium:
 - Wood, Jo; City University of London, Computer Science
 - Xu, Kai; Middlesex University
 
-The repository and the links to the archived versions of the idioms are the versions of the notebooks on *21.11.2021*. The repository is also deposited to Zenodo for a permanent snapshot.
-
+The first release of the repository and the links to the archived versions of the idioms are the versions of the notebooks on *21.11.2021*. Release specific details will be added at the end of the page, for instance, if further releases are made with revised versions of the notebooks.
 
 The individual notebooks in this collection can be accessed through the links in the table below. The first link takes you to the immutable, html-based version of the notebook, the second link takes you to the live, fork-able and editable version of the code on the [Observable](https://observablehq.com/) platform.
 
@@ -77,3 +76,7 @@ The individual notebooks in this collection can be accessed through the links in
 | VIS needs more theoretical advances | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/Theory/) | [live version](https://observablehq.com/d/ac04bb76a1ec0dd4) |
 | Visual Faceting \& Sorting for Comparative Time Series Analysis | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/VisCon/) | [live version](https://observablehq.com/d/4aebb875cacaef3a) |
 | Volunteer visualization | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/VolunteerVIS/) | [live version](https://observablehq.com/d/efe6c1c90c625bec) |
+
+**Notes for release v.1.0 (21.11.2021):**  A first release of the repository is also deposited to Zenodo for a permanent snapshot. This snapshot [can be accessed on Zenodo here](https://zenodo.org/record/5717367#.YZq6dr3P2HE) and be cited as:
+
+> Dykes, Jason, Abdul-Rahman, Alfie, Archambault, Daniel, Bach, Benjamin, Borgo, Rita, Chen, Min, Enright, Jess, Fang, Hui, Firat, Elif, Freeman, Euan, Gonen, Tuna, Harris, Claire, Jianu, Radu, John, Nigel, Khan, Saiful, Lahiff, Andrew, Laramee, Robert, Matthews, Louise, Mohr, Sibylle, Nguyen, Phong, Rahat, Alma, Reeve, Richard, Ritsos, Panagiotis, Roberts, Jonathan, Slingsby, Aidan, Swallow, Ben, Torsney-Weir, Thomas, Turkay, Cagatay, Turner, Robert, Vidal, Franck, Wang, Qiru, Wood, Jo, Xu, Kai, 2021. RAMP-VIS/RAMPVIS-PhilTransA-Supplement: RAMPVIS_PhilTransA_Supplement_v1.0. https://doi.org/10.5281/zenodo.5717367
