@@ -1,9 +1,44 @@
 ## RAMPVIS PhilTransA Submission Supplement
 ### _Collection of Observable Notebooks for RAMP VIS Idioms_
 
-This is a repository for the collection of immutable, archived versions of the Observable Notebooks to support the RAMPVIS PhilTransA submission : "_Visualization for Epidemiological Modelling: Challenges, Solutions, Reflections & Recommendations_".
+This is a repository for the collection of immutable, archived versions of the Observable Notebooks to support the RAMPVIS PhilTransA submission : "_Visualization for Epidemiological Modelling: Challenges, Solutions, Reflections & Recommendations_" by a collective of authors from the SCRC and RAMP VIS Consortium:
 
-The repository and the links to the archived versions of the idioms are the versions of the notebooks on *21.11.2021*.
+- Dykes, Jason; City University of London, Computer Science
+- Abdul-Rahman, Alfie; King's College London
+- Archambault, Daniel; Swansea University
+- Bach, Benjamin; The University of Edinburgh, School of Informatics
+- Borgo, Rita; King's College London
+- Chen, Min; Oxford University
+- Enright, Jess; University of Glasgow
+- Fang, Hui; Loughborough University
+- Firat, Elif; University of Nottingham
+- Freeman, Euan; University of Glasgow
+- Gonen, Tuna; University of Oxford
+- Harris, Claire; Biomathematics and Statistics Scotland
+- Jianu, Radu; City University
+- John, Nigel; University of Chester,
+- Khan, Saiful; Oxford University
+- Lahiff, Andrew; United Kingdom Atomic Energy Authority,
+- Laramee, Robert; University of Nottingham
+- Matthews, Louise; University of Glasgow, Boyd Orr Centre for Population and Ecosystem Health
+- Mohr, Sibylle; University of Glasgow, Boyd Orr Centre for Population and Ecosystem Health
+- Nguyen, Phong; Oxford University
+- Rahat, Alma; Swansea University
+- Reeve, Richard; University of Glasgow, Boyd Orr Centre for Population and Ecosystem Health
+- Ritsos, Panagiotis; Bangor University
+- Roberts, Jonathan; Bangor University
+- Slingsby, Aidan; City University
+- Swallow, Ben; University of Glasgow School of Mathematics and Statistics,
+- Torsney-Weir, Thomas; Swansea University
+- Turkay, Cagatay; University of Warwick
+- Turner, Robert; The University of Sheffield
+- Vidal, Franck; Bangor University
+- Wang, Qiru; University of Nottingham
+- Wood, Jo; City University of London, Computer Science
+- Xu, Kai; Middlesex University
+
+The repository and the links to the archived versions of the idioms are the versions of the notebooks on *21.11.2021*. The repository is also deposited to Zenodo for a permanent snapshot.
+
 
 The individual notebooks in this collection can be accessed through the links in the table below. The first link takes you to the immutable, html-based version of the notebook, the second link takes you to the live, fork-able and editable version of the code on the [Observable](https://observablehq.com/) platform.
 
