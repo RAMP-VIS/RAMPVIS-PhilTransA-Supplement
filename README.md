@@ -3,7 +3,7 @@
 
 This is a repository for the collection of immutable, archived versions of the Observable Notebooks to support the RAMPVIS PhilTransA submission :
 
-"_Visualization for Epidemiological Modelling: Challenges, Solutions, Reflections & Recommendations_" 
+"**_Visualization for Epidemiological Modelling: Challenges, Solutions, Reflections & Recommendations_**" 
 
 by a collective of authors from the SCRC and RAMP VIS Consortium:
 
