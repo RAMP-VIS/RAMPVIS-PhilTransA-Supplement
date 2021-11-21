@@ -1,0 +1,14 @@
+{
+  "name": "c3a628d8bd4fe8fe",
+  "main": "c3a628d8bd4fe8fe@823.js",
+  "version": "823.0.0",
+  "homepage": "https://observablehq.com/d/c3a628d8bd4fe8fe",
+  "author": {
+    "name": "Elif E. Firat",
+    "url": "https://observablehq.com/@elfemlfrt"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

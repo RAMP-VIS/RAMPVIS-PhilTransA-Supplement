@@ -1,0 +1,14 @@
+{
+  "name": "4aebb875cacaef3a",
+  "main": "4aebb875cacaef3a@845.js",
+  "version": "845.0.0",
+  "homepage": "https://observablehq.com/d/4aebb875cacaef3a",
+  "author": {
+    "name": "cagatayturkay",
+    "url": "https://observablehq.com/@cagatayturkay"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

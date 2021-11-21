@@ -1,0 +1,14 @@
+{
+  "name": "@jcrbrts/rampvis-idioms-fds",
+  "main": "c1094c0f728e164f@970.js",
+  "version": "970.0.0",
+  "homepage": "https://observablehq.com/@jcrbrts/rampvis-idioms-fds",
+  "author": {
+    "name": "Jonathan Roberts",
+    "url": "https://observablehq.com/@jcrbrts"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

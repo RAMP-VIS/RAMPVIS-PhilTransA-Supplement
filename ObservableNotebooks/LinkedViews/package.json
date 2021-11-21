@@ -1,0 +1,14 @@
+{
+  "name": "@henryqw/multiple-linked-views",
+  "main": "c635096bec12d7c9@820.js",
+  "version": "820.0.0",
+  "homepage": "https://observablehq.com/@henryqw/multiple-linked-views",
+  "author": {
+    "name": "Qiru Wang",
+    "url": "https://observablehq.com/@henryqw"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

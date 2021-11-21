@@ -1,0 +1,14 @@
+{
+  "name": "@jwolondon/rampvis_idiom_directional_flow_curves",
+  "main": "f7da1d07d2d10ebc@1777.js",
+  "version": "1777.0.0",
+  "homepage": "https://observablehq.com/@jwolondon/rampvis_idiom_directional_flow_curves",
+  "author": {
+    "name": "Jo Wood",
+    "url": "https://observablehq.com/@jwolondon"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

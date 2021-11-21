@@ -1,0 +1,14 @@
+{
+  "name": "ac04bb76a1ec0dd4",
+  "main": "ac04bb76a1ec0dd4@782.js",
+  "version": "782.0.0",
+  "homepage": "https://observablehq.com/d/ac04bb76a1ec0dd4",
+  "author": {
+    "name": "Min Chen",
+    "url": "https://observablehq.com/@minchen"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

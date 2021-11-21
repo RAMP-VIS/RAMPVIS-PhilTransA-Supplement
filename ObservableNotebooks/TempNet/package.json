@@ -1,0 +1,14 @@
+{
+  "name": "43927395f6cb890c",
+  "main": "43927395f6cb890c@763.js",
+  "version": "763.0.0",
+  "homepage": "https://observablehq.com/d/43927395f6cb890c",
+  "author": {
+    "name": "cagatayturkay",
+    "url": "https://observablehq.com/@cagatayturkay"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

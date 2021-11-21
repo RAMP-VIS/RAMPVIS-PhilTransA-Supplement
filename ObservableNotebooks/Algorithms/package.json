@@ -1,0 +1,14 @@
+{
+  "name": "@lborohfang/rampvis-idiom-integrated-algorithmic-tools-for-visual-ana",
+  "main": "43358599cbcc009d@906.js",
+  "version": "906.0.0",
+  "homepage": "https://observablehq.com/@lborohfang/rampvis-idiom-integrated-algorithmic-tools-for-visual-ana",
+  "author": {
+    "name": "lborohfang",
+    "url": "https://observablehq.com/@lborohfang"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

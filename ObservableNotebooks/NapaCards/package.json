@@ -1,0 +1,14 @@
+{
+  "name": "@ritsosp/rampvis-idioms-narrative-design-patterns",
+  "main": "b56e00407b7d4246@1085.js",
+  "version": "1085.0.0",
+  "homepage": "https://observablehq.com/@ritsosp/rampvis-idioms-narrative-design-patterns",
+  "author": {
+    "name": "Panagiotis D. Ritsos",
+    "url": "https://observablehq.com/@ritsosp"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

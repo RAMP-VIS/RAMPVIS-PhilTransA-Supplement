@@ -1,0 +1,14 @@
+{
+  "name": "@aidans/rampvis-idiom-gridded-glyphmaps",
+  "main": "2669f8604f02ddaf@1001.js",
+  "version": "1001.0.0",
+  "homepage": "https://observablehq.com/@aidans/rampvis-idiom-gridded-glyphmaps",
+  "author": {
+    "name": "aidans",
+    "url": "https://observablehq.com/@aidans"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

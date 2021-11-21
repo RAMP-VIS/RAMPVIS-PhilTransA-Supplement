@@ -1,0 +1,14 @@
+{
+  "name": "@kaimdx/rampvis-idiom-gmap",
+  "main": "501ea6f14379da93@800.js",
+  "version": "800.0.0",
+  "homepage": "https://observablehq.com/@kaimdx/rampvis-idiom-gmap",
+  "author": {
+    "name": "Kai Xu",
+    "url": "https://observablehq.com/@kaimdx"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

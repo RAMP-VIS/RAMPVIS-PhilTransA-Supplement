@@ -1,0 +1,14 @@
+{
+  "name": "87a416cd4468fff0",
+  "main": "87a416cd4468fff0@827.js",
+  "version": "827.0.0",
+  "homepage": "https://observablehq.com/d/87a416cd4468fff0",
+  "author": {
+    "name": "Alfie Abdul-Rahman",
+    "url": "https://observablehq.com/@alfieabdulrahman"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

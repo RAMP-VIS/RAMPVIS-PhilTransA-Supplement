@@ -1,0 +1,14 @@
+{
+  "name": "7d339207ef90c483",
+  "main": "7d339207ef90c483@992.js",
+  "version": "992.0.0",
+  "homepage": "https://observablehq.com/d/7d339207ef90c483",
+  "author": {
+    "name": "Tom Torsney-Weir",
+    "url": "https://observablehq.com/@gabysbrain"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

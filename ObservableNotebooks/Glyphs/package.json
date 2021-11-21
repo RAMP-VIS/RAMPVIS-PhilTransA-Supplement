@@ -1,0 +1,14 @@
+{
+  "name": "@ritsosp/rampvis-idioms-pictograms",
+  "main": "8ac26e272f9df467@922.js",
+  "version": "922.0.0",
+  "homepage": "https://observablehq.com/@ritsosp/rampvis-idioms-pictograms",
+  "author": {
+    "name": "Panagiotis D. Ritsos",
+    "url": "https://observablehq.com/@ritsosp"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
