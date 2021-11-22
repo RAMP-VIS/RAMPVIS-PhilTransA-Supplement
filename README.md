@@ -5,7 +5,7 @@ This is a repository for the collection of immutable, archived versions of the O
 
 "**_Visualization for Epidemiological Modelling: Challenges, Solutions, Reflections & Recommendations_**"
 
-by a collective of authors from the SCRC and RAMP VIS Consortium:
+by a collective of authors from the [SCRC](https://www.gla.ac.uk/research/az/scrc/) and the [RAMP VIS](https://sites.google.com/view/rampvis/) Consortiums:
 
 - Dykes, Jason; City University of London, Computer Science
 - Abdul-Rahman, Alfie; King's College London
