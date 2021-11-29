@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/420153290.svg)](https://zenodo.org/badge/latestdoi/420153290)
+
 ## RAMPVIS PhilTransA Submission Supplement
 ### _Collection of Observable Notebooks for RAMP VIS Idioms_
 
