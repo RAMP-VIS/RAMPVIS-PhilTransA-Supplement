@@ -3,8 +3,6 @@
 <style type="text/css">
   td {font-size:80%}
 
-  h1 {display:none}
-  h2 {display:none}
   .new-page {page-break-before: always;}
   tr, tr td {padding-top:0; padding-bottom:0}
   tbody tr td {font-size:80%}
