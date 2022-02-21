@@ -68,7 +68,7 @@ Note that initially we termed all notebooks 'idioms'. On reflection, we reserve 
 The individual notebooks in this collection can be accessed through the links in the table below. The first link takes you to the immutable, html-based version of the notebook, the second link takes you to the live, fork-able and editable version of the code on the [Observable](https://observablehq.com/) platform.<br/><br/>
 <div class="new-page"/>
 
-| VIS Knowledge Construct  | Web-based Archived | Live Observable |
+| VIS Knowledge Construct  | Immutable Archive | Live Observable |
 | ------------- | ------------- | ------------- |
 | Integrated Algorithmic Tools for Visual Analytics | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/Algorithms/) | [live version](https://observablehq.com/@lborohfang/rampvis-idiom-integrated-algorithmic-tools-for-visual-ana) |
 | D3.js for rapid visualization prototyping | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/D3/) | [live version](https://observablehq.com/d/071ee158d5418d96) |
