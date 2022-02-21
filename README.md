@@ -5,43 +5,43 @@
 
 This is a repository for the collection of immutable, archived versions of the Observable Notebooks to support the RAMPVIS PhilTransA submission :
 
-"**_Visualization for Epidemiological Modelling: Challenges, Solutions, Reflections & Recommendations_**"
+ * "**_Visualization for Epidemiological Modelling: Challenges, Solutions, Reflections & Recommendations_**"
 
 by a collective of authors from the [SCRC](https://www.gla.ac.uk/research/az/scrc/) and the [RAMP VIS](https://sites.google.com/view/rampvis/) Consortiums:
 
-- Dykes, Jason; City University of London, Computer Science
-- Abdul-Rahman, Alfie; King's College London
-- Archambault, Daniel; Swansea University
-- Bach, Benjamin; The University of Edinburgh, School of Informatics
-- Borgo, Rita; King's College London
-- Chen, Min; Oxford University
-- Enright, Jess; University of Glasgow
-- Fang, Hui; Loughborough University
-- Firat, Elif; University of Nottingham
-- Freeman, Euan; University of Glasgow
-- Gonen, Tuna; University of Oxford
-- Harris, Claire; Biomathematics and Statistics Scotland
-- Jianu, Radu; City University
-- John, Nigel; University of Chester,
-- Khan, Saiful; Oxford University
-- Lahiff, Andrew; United Kingdom Atomic Energy Authority,
-- Laramee, Robert; University of Nottingham
-- Matthews, Louise; University of Glasgow, Boyd Orr Centre for Population and Ecosystem Health
-- Mohr, Sibylle; University of Glasgow, Boyd Orr Centre for Population and Ecosystem Health
-- Nguyen, Phong; Oxford University
-- Rahat, Alma; Swansea University
-- Reeve, Richard; University of Glasgow, Boyd Orr Centre for Population and Ecosystem Health
-- Ritsos, Panagiotis; Bangor University
-- Roberts, Jonathan; Bangor University
-- Slingsby, Aidan; City University
-- Swallow, Ben; University of Glasgow School of Mathematics and Statistics,
-- Torsney-Weir, Thomas; Swansea University
-- Turkay, Cagatay; University of Warwick
-- Turner, Robert; The University of Sheffield
-- Vidal, Franck; Bangor University
-- Wang, Qiru; University of Nottingham
-- Wood, Jo; City University of London, Computer Science
-- Xu, Kai; Middlesex University
+- **Dykes, Jason**; City University of London, Computer Science
+- **Abdul-Rahman, Alfie**; King's College London
+- **Archambault, Daniel**; Swansea University
+- **Bach, Benjamin**; The University of Edinburgh, School of Informatics
+- **Borgo, Rita**; King's College London
+- **Chen, Min**; Oxford University
+- **Enright, Jess**; University of Glasgow
+- **Fang, Hui**; Loughborough University
+- **Firat, Elif**; University of Nottingham
+- **Freeman, Euan**; University of Glasgow
+- **Gonen, Tuna**; University of Oxford
+- **Harris, Claire**; Biomathematics and Statistics Scotland
+- **Jianu, Radu**; City University
+- **John, Nigel**; University of Chester,
+- **Khan, Saiful**; Oxford University
+- **Lahiff, Andrew**; United Kingdom Atomic Energy Authority,
+- **Laramee, Robert**; University of Nottingham
+- **Matthews, Louise**; University of Glasgow, Boyd Orr Centre for Population and Ecosystem Health
+- **Mohr, Sibylle**; University of Glasgow, Boyd Orr Centre for Population and Ecosystem Health
+- **Nguyen, Phong**; Oxford University
+- **Rahat, Alma**; Swansea University
+- **Reeve, Richard**; University of Glasgow, Boyd Orr Centre for Population and Ecosystem Health
+- **Ritsos, Panagiotis**; Bangor University
+- **Roberts, Jonathan**; Bangor University
+- **Slingsby, Aidan**; City University
+- **Swallow, Ben**; University of Glasgow School of Mathematics and Statistics,
+- **Torsney-Weir, Thomas**; Swansea University
+- **Turkay, Cagatay**; University of Warwick
+- **Turner, Robert**; The University of Sheffield
+- **Vidal, Franckv; Bangor University
+- **Wang, Qiru**; University of Nottingham
+- **Wood, Jo**; City University of London, Computer Science
+- **Xu, Kai**; Middlesex University
 
 The first release of the repository and the links to the archived versions of the notebooks were made on initial submission on *21.11.2021*.<br/>
 
@@ -54,7 +54,7 @@ Note that initially we termed all notebooks 'idioms'. On reflection, we reserve 
 The individual notebooks in this collection can be accessed through the links in the table below. The first link takes you to the immutable, html-based version of the notebook, the second link takes you to the live, fork-able and editable version of the code on the [Observable](https://observablehq.com/) platform.
 
 
-| Knowledge Construct  | Web-based Archived Link | Live Observable Link |
+| VIS Knowledge Construct  | Web-based Archived | Live Observable |
 | ------------- | ------------- | ------------- |
 | Integrated Algorithmic Tools for Visual Analytics | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/Algorithms/) | [live version](https://observablehq.com/@lborohfang/rampvis-idiom-integrated-algorithmic-tools-for-visual-ana) |
 | D3.js for rapid visualization prototyping | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/D3/) | [live version](https://observablehq.com/d/071ee158d5418d96) |
@@ -87,11 +87,15 @@ The individual notebooks in this collection can be accessed through the links in
 | Design by Immersion | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/DesignByImmersion/) | [live version](https://observablehq.com/@jsndyks/rampvis-idiom-design-by-immersion) |
 
 
-**Notes for release v.1.0 (21.11.2021):**  A first release of the repository is also deposited to Zenodo for a permanent snapshot.
+**Notes for release v.1.0 (21.11.2021):**<br/>A first release of the repository is also deposited to Zenodo for a permanent snapshot.
 This snapshot [can be accessed on Zenodo here](https://zenodo.org/record/5717367#.YZq6dr3P2HE) along with subsequent versions and be cited as:
 
 > Dykes, Jason, Abdul-Rahman, Alfie, Archambault, Daniel, Bach, Benjamin, Borgo, Rita, Chen, Min, Enright, Jess, Fang, Hui, Firat, Elif, Freeman, Euan, Gonen, Tuna, Harris, Claire, Jianu, Radu, John, Nigel, Khan, Saiful, Lahiff, Andrew, Laramee, Robert, Matthews, Louise, Mohr, Sibylle, Nguyen, Phong, Rahat, Alma, Reeve, Richard, Ritsos, Panagiotis, Roberts, Jonathan, Slingsby, Aidan, Swallow, Ben, Torsney-Weir, Thomas, Turkay, Cagatay, Turner, Robert, Vidal, Franck, Wang, Qiru, Wood, Jo, Xu, Kai, 2021. RAMP-VIS/RAMPVIS-PhilTransA-Supplement: RAMPVIS_PhilTransA_Supplement_v1.0. https://doi.org/10.5281/zenodo.5717367
 
-**Notes for release v.2.0 (25.02.2022):**  The repository is deposited to Zenodo for a permanent snapshot. This snapshot [can be accessed on Zenodo here](https://zenodo.org/record/5717367#.YZq6dr3P2HE) and will always resolve to the latest version. It can be cited as:
+**Notes for release v.2.0 (25.02.2022):** <br/>The repository is deposited to Zenodo for a permanent snapshot. This snapshot [can be accessed on Zenodo here](https://zenodo.org/record/5717367#.YZq6dr3P2HE) and will always resolve to the latest version. It can be cited as:
 
 > Dykes, Jason, Abdul-Rahman, Alfie, Archambault, Daniel, Bach, Benjamin, Borgo, Rita, Chen, Min, Enright, Jess, Fang, Hui, Firat, Elif, Freeman, Euan, Gonen, Tuna, Harris, Claire, Jianu, Radu, John, Nigel, Khan, Saiful, Lahiff, Andrew, Laramee, Robert, Matthews, Louise, Mohr, Sibylle, Nguyen, Phong, Rahat, Alma, Reeve, Richard, Ritsos, Panagiotis, Roberts, Jonathan, Slingsby, Aidan, Swallow, Ben, Torsney-Weir, Thomas, Turkay, Cagatay, Turner, Robert, Vidal, Franck, Wang, Qiru, Wood, Jo, Xu, Kai, 2021. RAMP-VIS/RAMPVIS-PhilTransA-Supplement: RAMPVIS_PhilTransA_Supplement_v2.0. https://doi.org/10.5281/zenodo.5717367
+
+<style>
+  td {font-size:80%}
+</style>
