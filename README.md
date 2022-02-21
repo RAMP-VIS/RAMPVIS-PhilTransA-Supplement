@@ -3,6 +3,14 @@
 <!---
 <style type="text/css">
   td {font-size:80%}
+  @media print {
+  h1 {display:none}
+  h2 {display:none}
+  .new-page {page-break-before: always;}
+  tr {padding-top:0; padding-bottom:0}
+  }
+}
+
 </style>
   --->
 
@@ -58,14 +66,14 @@ Release specific details will be added at the end of the page, for instance, if 
 Note that initially we termed all notebooks 'idioms'. On reflection, we reserve this term for particular defined styles or forms of visual data depiction and use the broader term 'knowledge constructs' to describe a broader set of knowledge types that includes these visual idioms, but also other forms of ideas, approaches and methods developed and used in VIS research.
 
 The individual notebooks in this collection can be accessed through the links in the table below. The first link takes you to the immutable, html-based version of the notebook, the second link takes you to the live, fork-able and editable version of the code on the [Observable](https://observablehq.com/) platform.<br/><br/>
-
+<div class="new-page"/>
 
 | VIS Knowledge Construct  | Web-based Archived | Live Observable |
 | ------------- | ------------- | ------------- |
 | Integrated Algorithmic Tools for Visual Analytics | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/Algorithms/) | [live version](https://observablehq.com/@lborohfang/rampvis-idiom-integrated-algorithmic-tools-for-visual-ana) |
 | D3.js for rapid visualization prototyping | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/D3/) | [live version](https://observablehq.com/d/071ee158d5418d96) |
 | Derived data spaces | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/DDS/) | [live version](https://observablehq.com/d/78b20aa4152547e2) |
-| Developing deployable visualization systems - comparing existing implementation vs. RAMPVIS server architecture | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/Deploy/) | [live version](https://observablehq.com/d/e7dc9a1ffd763d73) |
+| Developing deployable visualization systems -<br/>comparing existing implementation vs. RAMPVIS server architecture | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/Deploy/) | [live version](https://observablehq.com/d/e7dc9a1ffd763d73) |
 | Propagating Visual Designs | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/DesignProp/) | [live version](https://observablehq.com/d/87a416cd4468fff0) |
 | Dynamic data visualization | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/DynamicData/) | [live version](https://observablehq.com/d/e635bbb87b89b463) |
 | Applying Design Study Methodology in an Emergency Response | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/ERDS/) | [live version](https://observablehq.com/d/2e98f8d7f3cf5c08) |
