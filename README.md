@@ -44,8 +44,10 @@ by a collective of authors from the [SCRC](https://www.gla.ac.uk/research/az/scr
 - Xu, Kai; Middlesex University
 
 The first release of the repository and the links to the archived versions of the notebooks were made on initial submission on *21.11.2021*.<br/>
+
 The second release of the repository and the links to the archived versions of the notebooks were made on resubmission of the manuscript following reviewers' comments on *25.02.2022*.<br/>
- Release specific details will be added at the end of the page, for instance, if further releases are made with revised versions of the notebooks.
+
+Release specific details will be added at the end of the page, for instance, if further releases are made with revised versions of the notebooks.
 
 Note that initially we termed all notebooks 'idioms'. On reflection, we reserve this term for particular defined styles or forms of visual data depiction and use the broader term 'knowledge constructs' to describe a broader set of knowledge types that includes these visual idioms, but also other forms of ideas, approaches and methods developed and used in VIS research.
 
@@ -82,7 +84,7 @@ The individual notebooks in this collection can be accessed through the links in
 | VIS needs more theoretical advances | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/Theory/) | [live version](https://observablehq.com/d/ac04bb76a1ec0dd4) |
 | Visual Faceting \& Sorting for Comparative Time Series Analysis | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/VisCon/) | [live version](https://observablehq.com/d/4aebb875cacaef3a) |
 | Volunteer visualization | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/VolunteerVIS/) | [live version](https://observablehq.com/d/efe6c1c90c625bec) |
-| GMap | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/DesignByImmersion/) | [live version](https://observablehq.com/@jsndyks/rampvis-idiom-design-by-immersion) |
+| Design by Immersion | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/DesignByImmersion/) | [live version](https://observablehq.com/@jsndyks/rampvis-idiom-design-by-immersion) |
 
 
 **Notes for release v.1.0 (21.11.2021):**  A first release of the repository is also deposited to Zenodo for a permanent snapshot. This snapshot [can be accessed on Zenodo here](https://zenodo.org/record/5717367#.YZq6dr3P2HE) and be cited as:
