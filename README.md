@@ -8,6 +8,7 @@
   h2 {display:none}
   .new-page {page-break-before: always;}
   tr {padding-top:0; padding-bottom:0}
+  td {font-size:67%}
   }
 }
 
