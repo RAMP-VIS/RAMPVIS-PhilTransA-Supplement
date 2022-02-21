@@ -87,10 +87,11 @@ The individual notebooks in this collection can be accessed through the links in
 | Design by Immersion | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/DesignByImmersion/) | [live version](https://observablehq.com/@jsndyks/rampvis-idiom-design-by-immersion) |
 
 
-**Notes for release v.1.0 (21.11.2021):**  A first release of the repository is also deposited to Zenodo for a permanent snapshot. This snapshot [can be accessed on Zenodo here](https://zenodo.org/record/5717367#.YZq6dr3P2HE) and be cited as:
+**Notes for release v.1.0 (21.11.2021):**  A first release of the repository is also deposited to Zenodo for a permanent snapshot.
+This snapshot [can be accessed on Zenodo here](https://zenodo.org/record/5717367#.YZq6dr3P2HE) along with subsequent versions and be cited as:
 
 > Dykes, Jason, Abdul-Rahman, Alfie, Archambault, Daniel, Bach, Benjamin, Borgo, Rita, Chen, Min, Enright, Jess, Fang, Hui, Firat, Elif, Freeman, Euan, Gonen, Tuna, Harris, Claire, Jianu, Radu, John, Nigel, Khan, Saiful, Lahiff, Andrew, Laramee, Robert, Matthews, Louise, Mohr, Sibylle, Nguyen, Phong, Rahat, Alma, Reeve, Richard, Ritsos, Panagiotis, Roberts, Jonathan, Slingsby, Aidan, Swallow, Ben, Torsney-Weir, Thomas, Turkay, Cagatay, Turner, Robert, Vidal, Franck, Wang, Qiru, Wood, Jo, Xu, Kai, 2021. RAMP-VIS/RAMPVIS-PhilTransA-Supplement: RAMPVIS_PhilTransA_Supplement_v1.0. https://doi.org/10.5281/zenodo.5717367
 
-**Notes for release v.2.0 (25.02.2022):**  A repository is also deposited to Zenodo for a permanent snapshot. This snapshot [can be accessed on Zenodo here](https://zenodo.org/record/5717367#.YZq6dr3P2HE) and be cited as:
+**Notes for release v.2.0 (25.02.2022):**  The repository is deposited to Zenodo for a permanent snapshot. This snapshot [can be accessed on Zenodo here](https://zenodo.org/record/5717367#.YZq6dr3P2HE) and will always resolve to the latest version. It can be cited as:
 
 > Dykes, Jason, Abdul-Rahman, Alfie, Archambault, Daniel, Bach, Benjamin, Borgo, Rita, Chen, Min, Enright, Jess, Fang, Hui, Firat, Elif, Freeman, Euan, Gonen, Tuna, Harris, Claire, Jianu, Radu, John, Nigel, Khan, Saiful, Lahiff, Andrew, Laramee, Robert, Matthews, Louise, Mohr, Sibylle, Nguyen, Phong, Rahat, Alma, Reeve, Richard, Ritsos, Panagiotis, Roberts, Jonathan, Slingsby, Aidan, Swallow, Ben, Torsney-Weir, Thomas, Turkay, Cagatay, Turner, Robert, Vidal, Franck, Wang, Qiru, Wood, Jo, Xu, Kai, 2021. RAMP-VIS/RAMPVIS-PhilTransA-Supplement: RAMPVIS_PhilTransA_Supplement_v2.0. https://doi.org/10.5281/zenodo.5717367
