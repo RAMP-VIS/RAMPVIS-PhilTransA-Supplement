@@ -7,8 +7,8 @@
   h2 {display:none}
   .new-page {page-break-before: always;}
   tr, tr td {padding-top:0; padding-bottom:0}
-  tbody tr td {font-size:60%}
-  blockquote {font-size:60%}
+  tbody tr td {font-size:80%}
+  blockquote {font-size:80%}
   @media print {
   }
 }
