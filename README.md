@@ -64,7 +64,7 @@ The second release of the repository and the links to the archived versions of t
 
 Release specific details will be added at the end of the page, for instance, if further releases are made with revised versions of the notebooks.
 
-Note that initially we termed all notebooks 'idioms'. On reflection, we reserve this term for particular defined styles or forms of visual data depiction and use the broader term 'knowledge constructs' to describe a broader set of knowledge types that includes these visual idioms, but also other forms of ideas, approaches and methods developed and used in VIS research.
+Note that initially we termed all notebooks 'idioms'. On reflection, and following guidance from anonymous reviewers, we now reserve this term for particular defined styles or forms of visual data depiction. We use the broader term 'knowledge constructs' to describe a wider set of knowledge types that includes these visual idioms, but also other ideas, approaches and methods developed and used in VIS research.
 
 The individual notebooks in this collection can be accessed through the links in the table below. The first link takes you to the immutable, html-based version of the notebook, the second link takes you to the live, fork-able and editable version of the code on the [Observable](https://observablehq.com/) platform.<br/><br/>
 <div class="new-page"/>
