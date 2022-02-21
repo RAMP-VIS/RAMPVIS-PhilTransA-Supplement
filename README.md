@@ -8,7 +8,7 @@
   .new-page {page-break-before: always;}
   tr, tr td {padding-top:0; padding-bottom:0}
   tbody tr td {font-size:60%}
-  blockquote p {font-size:60%}
+  blockquote {font-size:60%}
   @media print {
   }
 }
