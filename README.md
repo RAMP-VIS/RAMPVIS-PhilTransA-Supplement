@@ -7,9 +7,9 @@
   h1 {display:none}
   h2 {display:none}
   .new-page {page-break-before: always;}
-  tr {padding-top:0; padding-bottom:0}
-  td {font-size:60%}
-  blockquote {font-size:60%}
+  tr, tr td {padding-top:0; padding-bottom:0}
+  tbody tr td {font-size:60%}
+  blockquote p {font-size:60%}
   }
 }
 
