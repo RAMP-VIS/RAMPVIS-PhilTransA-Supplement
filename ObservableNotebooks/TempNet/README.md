@@ -1,6 +1,6 @@
-# RAMPVIS Idiom : Complementary Visualizations of Dynamic Networks (Static to Dynamic)
+# RAMPVIS : Complementary Visualizations of Dynamic Networks (Static to Dynamic)
 
-https://observablehq.com/d/43927395f6cb890c@763
+https://observablehq.com/d/43927395f6cb890c@802
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,7 +14,7 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@4
-npm install https://api.observablehq.com/d/43927395f6cb890c@763.tgz?v=3
+npm install https://api.observablehq.com/d/43927395f6cb890c@802.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:

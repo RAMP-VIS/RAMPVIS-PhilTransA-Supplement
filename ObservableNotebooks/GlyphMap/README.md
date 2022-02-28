@@ -1,6 +1,6 @@
-# RAMPVIS Idiom : Gridded Glyphmaps
+# RAMPVIS : Gridded Glyphmaps
 
-https://observablehq.com/@aidans/rampvis-idiom-gridded-glyphmaps@1001
+https://observablehq.com/@aidans/rampvis-idiom-gridded-glyphmaps@1148
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,7 +14,7 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@4
-npm install https://api.observablehq.com/d/2669f8604f02ddaf@1001.tgz?v=3
+npm install https://api.observablehq.com/d/2669f8604f02ddaf@1148.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:

@@ -1,6 +1,6 @@
-# Represent error and uncertainty
+# RAMPVIS : Representing Error and Uncertainty
 
-https://observablehq.com/@henryqw/represent-error-and-uncertainty@827
+https://observablehq.com/@henryqw/represent-error-and-uncertainty@857
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,7 +14,7 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@4
-npm install https://api.observablehq.com/d/ea78b530cac2ee60@827.tgz?v=3
+npm install https://api.observablehq.com/d/ea78b530cac2ee60@857.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:

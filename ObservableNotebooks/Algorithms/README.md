@@ -1,6 +1,6 @@
-# RAMPVIS Idiom : Integrated Algorithmic Tools for Visual Analytics
+# RAMPVIS : Integrated Algorithmic Tools for Visual Analytics
 
-https://observablehq.com/@lborohfang/rampvis-idiom-integrated-algorithmic-tools-for-visual-ana@906
+https://observablehq.com/@lborohfang/rampvis-idiom-integrated-algorithmic-tools-for-visual-ana@968
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,7 +14,7 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@4
-npm install https://api.observablehq.com/d/43358599cbcc009d@906.tgz?v=3
+npm install https://api.observablehq.com/@lborohfang/rampvis-idiom-integrated-algorithmic-tools-for-visual-ana@968.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:

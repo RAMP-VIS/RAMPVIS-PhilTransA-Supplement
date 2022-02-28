@@ -1,0 +1,14 @@
+{
+  "name": "@jsndyks/rampvis-idiom-design-by-immersion",
+  "main": "1c31af6291e7bc1e@1177.js",
+  "version": "1177.0.0",
+  "homepage": "https://observablehq.com/@jsndyks/rampvis-idiom-design-by-immersion",
+  "author": {
+    "name": "jason dykes",
+    "url": "https://observablehq.com/@jsndyks"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

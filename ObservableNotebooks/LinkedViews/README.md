@@ -1,6 +1,6 @@
-# Multiple Linked Views for Visual Exploration or how to Project for 2D - part 1
+# RAMPVIS : Multiple Linked Views for Visual Exploration
 
-https://observablehq.com/@henryqw/multiple-linked-views@820
+https://observablehq.com/@henryqw/multiple-linked-views@893
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,7 +14,7 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@4
-npm install https://api.observablehq.com/d/c635096bec12d7c9@820.tgz?v=3
+npm install https://api.observablehq.com/d/c635096bec12d7c9@893.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:

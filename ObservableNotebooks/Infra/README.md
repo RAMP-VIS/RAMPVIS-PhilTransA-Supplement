@@ -1,6 +1,6 @@
-# RAMPVIS Idiom: VIS Infrastructure
+# RAMPVIS : VIS Infrastructure
 
-https://observablehq.com/d/54c8641168c013ea@747
+https://observablehq.com/d/54c8641168c013ea@764
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,7 +14,7 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@4
-npm install https://api.observablehq.com/d/54c8641168c013ea@747.tgz?v=3
+npm install https://api.observablehq.com/d/54c8641168c013ea@764.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:

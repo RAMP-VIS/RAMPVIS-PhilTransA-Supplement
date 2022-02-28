@@ -1,6 +1,6 @@
-# RAMPVIS Idiom : Pictograms
+# RAMPVIS : Pictograms
 
-https://observablehq.com/@ritsosp/rampvis-idioms-pictograms@922
+https://observablehq.com/@ritsosp/rampvis-idioms-pictograms@943
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,7 +14,7 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@4
-npm install https://api.observablehq.com/d/8ac26e272f9df467@922.tgz?v=3
+npm install https://api.observablehq.com/d/8ac26e272f9df467@943.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:

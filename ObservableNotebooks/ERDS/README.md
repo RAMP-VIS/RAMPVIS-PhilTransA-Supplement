@@ -1,6 +1,6 @@
-# RAMPVIS Idiom : Applying Design Study Methodology in an Emergency Response
+# RAMPVIS : Applying Design Study Methodology in an Emergency Response
 
-https://observablehq.com/d/2e98f8d7f3cf5c08@789
+https://observablehq.com/d/2e98f8d7f3cf5c08@838
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,7 +14,7 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@4
-npm install https://api.observablehq.com/d/2e98f8d7f3cf5c08@789.tgz?v=3
+npm install https://api.observablehq.com/d/2e98f8d7f3cf5c08@838.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:

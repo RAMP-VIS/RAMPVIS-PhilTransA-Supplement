@@ -1,6 +1,6 @@
-# RAMPVIS Idiom: Dynamic Data Scheduling Agents for Visualization
+# RAMPVIS : Dynamic Data Scheduling Agents for Visualization
 
-https://observablehq.com/d/e635bbb87b89b463@758
+https://observablehq.com/d/e635bbb87b89b463@772
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,7 +14,7 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@4
-npm install https://api.observablehq.com/d/e635bbb87b89b463@758.tgz?v=3
+npm install https://api.observablehq.com/d/e635bbb87b89b463@772.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:

@@ -1,6 +1,6 @@
-# RAMPVIS Idiom: Developing Deployable Visualization Systems
+# RAMPVIS : Developing Deployable Visualization Systems
 
-https://observablehq.com/d/e7dc9a1ffd763d73@823
+https://observablehq.com/d/e7dc9a1ffd763d73@839
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,7 +14,7 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@4
-npm install https://api.observablehq.com/d/e7dc9a1ffd763d73@823.tgz?v=3
+npm install https://api.observablehq.com/d/e7dc9a1ffd763d73@839.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:
