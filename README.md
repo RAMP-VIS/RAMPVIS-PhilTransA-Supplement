@@ -98,7 +98,7 @@ The individual notebooks in this collection can be accessed through the links in
 | VIS needs more theoretical advances | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/Theory/) | [live version](https://observablehq.com/d/ac04bb76a1ec0dd4) |
 | Visual Faceting &amp; Sorting for Comparative Time Series Analysis | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/VisCon/) | [live version](https://observablehq.com/d/4aebb875cacaef3a) |
 | Volunteer visualization | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/VolunteerVIS/) | [live version](https://observablehq.com/d/efe6c1c90c625bec) |
-| Design by Immersion | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/DesignByImmersion/) | [live version](https://observablehq.com/@jsndyks/rampvis-idiom-design-by-immersion) |
+| Design by Immersion | [archived version](https://ramp-vis.github.io/RAMPVIS-PhilTransA-Supplement/ObservableNotebooks/ImmersiveDesign/) | [live version](https://observablehq.com/@jsndyks/rampvis-idiom-design-by-immersion) |
 
 
 **Notes for release v.1.0 (21.11.2021):**<br/>A first release of the repository is also deposited to Zenodo for a permanent snapshot.
